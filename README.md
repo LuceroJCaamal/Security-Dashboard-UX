@@ -1,1 +1,16 @@
 # Security-Dashboard-UX
+
+# Dashboard de Seguridad - Adobe XD  
+
+## Objetivo  
+Diseño de un dashboard para monitorear hallazgos de seguridad en assets (VMs, impresoras, etc.).  
+
+## Archivos  
+- `dashboard-security.png`: Mockup final exportado.  
+- `design.xd`: Archivo editable 
+
+## Herramientas  
+- Adobe XD  
+
+## Instrucciones  
+Revisar el PNG para el diseño estático o abrir el `.xd` para interactuar con prototipos.  
